@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vivek giri</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer and beginner to Backend development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girivivek45" alt="girivivek45" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vivek_giri45" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_giri45?logo=twitter&style=for-the-badge" alt="vivek_giri45" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **vivek.21ug2020@iiitranchi.ac.in**
 
