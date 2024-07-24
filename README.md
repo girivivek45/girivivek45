@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek giri</h1>
-<h3 align="center">A passionate frontend developer and intermediate to Backend development</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girivivek45" alt="girivivek45" /></a> </p>
 
