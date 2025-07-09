@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girivivek45" alt="girivivek45" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vivek_giri45" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_giri45?logo=twitter&style=for-the-badge" alt="vivek_giri45" /></a> </p>
-- 📫 How to reach me **vivek.21ug2020@iiitranchi.ac.in**
+- 📫 How to reach me **vivekkrgiri09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
